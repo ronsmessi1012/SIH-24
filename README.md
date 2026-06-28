@@ -120,8 +120,8 @@ The project is split into three main modules:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/ashmitasenroy/SIH-2024-PSID-1761.git
-cd SIH-2024-PSID-1761
+git clone https://github.com/ronsmessi1012/SIH-24.git
+cd SIH-24
 ```
 
 ### 2. Configure & Run the Route Optimizer (`Backend`)
@@ -196,4 +196,4 @@ cd SIH-2024-PSID-1761
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more info.
-© 2025 Ashmita Sen Roy
+© 2025 The EnSembles
