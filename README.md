@@ -182,11 +182,11 @@ cd SIH-24
 
 ---
 
-## 👩🏻‍💻 Developed By (Team - The Ensembles)
+## 👩🏻‍💻 Developed By (Team - The EnSembles)
 
 - **Ritusree Das**
 - **Mohak Das**
-- **Rudranil Choudhary**
+- **Rudranil Chowdhury**
 - **Surya Pratap Verma**
 - **Anisha Singh**
 - **Ashmita Sen Roy**
